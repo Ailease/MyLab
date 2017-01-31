@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyLab.iml" filepath="$PROJECT_DIR$/MyLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylab-root/mylab-root.iml" filepath="$PROJECT_DIR$/mylab-root/mylab-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylab-test/mylab-test.iml" filepath="$PROJECT_DIR$/mylab-test/mylab-test.iml" />
+    </modules>
+  </component>
+</project>
